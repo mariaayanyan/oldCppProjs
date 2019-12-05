@@ -1,0 +1,3 @@
+/home/maria/Projects/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maria/Projects/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+/home/maria/Projects/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir

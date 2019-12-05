@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/determinant.dir/main.cpp.o  -o determinant 
